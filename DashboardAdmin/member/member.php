@@ -65,7 +65,7 @@
             <td><?= htmlspecialchars($item["nisn"]); ?></td>
             <td><?= htmlspecialchars($item["nama"]); ?></td>
             <td><?= htmlspecialchars($item["jenis_kelamin"]); ?></td>
-            <td><?= htmlspecialchars($item["Fakultas"]); ?></td>
+            <td><?= htmlspecialchars($item["fakultas"]); ?></td>
             <td><?= htmlspecialchars($item["jurusan"]); ?></td>
             <td><?= htmlspecialchars($item["no_tlp"]); ?></td>
             <td><?= htmlspecialchars($item["tgl_pendaftaran"]); ?></td>
